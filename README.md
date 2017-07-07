@@ -25,8 +25,8 @@
     </body>
     
     <style>
-            p {font-size:125%;background-color:red;text-align:center}
-        </style>
+        p {font-size:125%;background-color:red;text-align:center}
+    </style>
     
     <body2 style="color:black">
         
